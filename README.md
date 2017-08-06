@@ -2,8 +2,8 @@
 # Hack for LA - Gross National Happiness Project
 
 Contact:	
-	*Duy Ngyugen - 
-	*Aidan Blant - github.com/AidanBlant
+*Duy Ngyugen - 
+*Aidan Blant - github.com/AidanBlant
 
 # Overall Goal 
 
